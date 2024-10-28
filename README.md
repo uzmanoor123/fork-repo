@@ -4,10 +4,6 @@
 <h3 align="center">A passionate Web Developer from Pakistan</h3>
 
 
-
-https://github.com/user-attachments/assets/b5a1bfe0-450d-4d9d-b80f-ca5cb94b75b2
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaunwei&label=Profile%20views&color=0e75b6&style=flat" alt="kaunwei" /> </p>
 
 - 🌱 I’m currently learning Django **Django (Python Framework)**
