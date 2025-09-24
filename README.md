@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kaunwei&label=Profile%20views&color=0e75b6&style=flat" alt="kaunwei" /> </p>
 
-- 🌱 I’m currently learning Django **Django (Python Framework)**
+- 🌱 I’m currently learning Django **Django (Php Framework)**
 
 - 👨‍💻 All of my projects are available at [https://github.com/kaunwei](https://github.com/kaunwei)
 
